@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-Desktop or laptop(./images/screenshot1.jpg)
-Mobile or small screen(./images/screenshot2.jpg)
+Desktop or laptop(./design/screenshot1.jpg)
+Mobile or small screen(./design/screenshot2.jpg)
 
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
