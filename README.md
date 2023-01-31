@@ -26,7 +26,7 @@ Mobile or small screen(./design/screenshot2.jpg)
 
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: GitHub (https://narendra-coder.github.io/Frontend-Mentor-Challange/)
 
 ## My process
 
